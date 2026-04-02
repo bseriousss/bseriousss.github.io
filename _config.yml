@@ -1,3 +1,4 @@
 theme: jekyll-theme-dinky
 title: "Conner's Blog"
 description: "Homelab projects, documentation, and write-ups coming soon!"
+permalink: /:year/:month/:day/:title/
